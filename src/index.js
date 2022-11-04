@@ -14,7 +14,6 @@ root.render(
             <Routes>
                 <Route path='/' element={<App />}></Route>
                 <Route path='/wonderland' element={<App2 />}></Route>
-
             </Routes>
         </BrowserRouter>
     </React.StrictMode>
